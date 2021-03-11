@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fish_array">
+        <item>Карп</item>
+        <item>Сом</item>
+        <item>Окунь</item>
+        <item>Щука</item>
+        <item>Лосось</item>
+        <item>Осётр</item>
+    </string-array>
+    <string-array name="bait_array">
+        <item>Червяк</item>
+        <item>Опарыш</item>
+        <item>Кукуруза</item>
+        <item>Хлеб</item>
+        <item>Рис</item>
+    </string-array>
+    <string-array name="tackle_array">
+        <item>Удочки</item>
+        <item>Леска</item>
+        <item>Крючки</item>
+        <item>Грузила</item>
+        <item>Блесна</item>
+    </string-array>
+    <string-array name="lure_array">
+        <item>Рис</item>
+        <item>Хлеб</item>
+        <item>Кукуруза</item>
+        <item>Овсянка</item>
+        <item>Просо</item>
+    </string-array>
+    <string-array name="stories_array">
+        <item>Рыбак и море</item>
+        <item>Рыбак и щука</item>
+        <item>На Дону</item>
+        <item>Случай на рыбалке</item>
+    </string-array>
+    <string-array name="tips_array">
+        <item>Советы по прикормке</item>
+        <item>Сезон рыбалки</item>
+        <item>На что клюёт</item>
+        <item>Большой улов</item>
+    </string-array>
+</resources>

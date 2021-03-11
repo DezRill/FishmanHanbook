@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fisherman Handler</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Справочник рыбака</string>
+    <string name="nav_header_subtitle">Тестовая версия</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_exit">Выход</string>
+    <string name="action_about">О программе</string>
+
+    <string name="menu_fish">Рыба</string>
+    <string name="menu_bait">Наживка</string>
+    <string name="menu_tackle">Снасти</string>
+    <string name="menu_lure">Прикормка</string>
+    <string name="menu_stories">Рыбацкие истории</string>
+    <string name="menu_tips">Полезные советы</string>
+</resources>
